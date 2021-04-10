@@ -92,5 +92,5 @@ ITEM_PIPELINES = {
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
-MONGO_URI = 'mongodb+srv://baikal:Swan0716@cluster0.yker2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
+MONGO_URI = 'mongodb+srv://baikal:<password>@cluster0.yker2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
 MONGO_DB = 'tutorial'
